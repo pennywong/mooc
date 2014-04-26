@@ -1,5 +1,6 @@
 ## The description of tidy dataset 
 
+------
 
 This dataset is a cleaning data about [Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
@@ -24,7 +25,7 @@ Subject	| Activity			| tBodyAcc-mean()-X	| other features...
 
 ------
 
-## How to get the tidy dataset from raw data
+### How to get the tidy dataset from raw data
 
 1. read features and activity labels files
 2. construct a **select_features** vector that be used to filter out the unneed column (only select the column that its column name contains "mean()" and "std()") when reading the measurement data. It can reduce the memory usage.

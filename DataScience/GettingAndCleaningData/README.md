@@ -1,5 +1,7 @@
 ## READ ME
 
+------
+
 This is a description of the course [Getting and Cleaning Data](https://class.coursera.org/getdata-002)'s assignment.
 
 It contains 3 files:
@@ -12,7 +14,7 @@ It contains 3 files:
 
 ---
 
-#### How to execute the *'run_analysis.R'* script
+### How to execute the *'run_analysis.R'* script
 
 *	command line mode
 
